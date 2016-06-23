@@ -1,7 +1,7 @@
 {
   "name": "co-ssh2",
   "version": "0.0.1",
-  "description": "Client SSH for generators with co",
+  "description": "A SSH client for generators with co.",
   "main": "lib/index.js",
   "scripts": {
     "build": "./node_modules/.bin/babel --presets es2015 --plugins add-module-exports -d lib/ src/",
