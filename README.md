@@ -11,7 +11,7 @@ $ npm i co-ssh2 -S
 import ssh from 'co-ssh2'
 
 ...
-let c = ssh()
+let c = new ssh()
 yield c.connect({ ... })
 yield c.exec('uptime')
 c.end()
