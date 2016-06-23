@@ -1,6 +1,6 @@
 {
   "name": "co-ssh2",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Client SSH for generators with co",
   "main": "lib/index.js",
   "scripts": {
